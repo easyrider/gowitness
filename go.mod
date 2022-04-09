@@ -1,4 +1,4 @@
-module github.com/sensepost/gowitness
+module github.com/easyrider/gowitness
 
 go 1.16
 
